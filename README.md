@@ -1,0 +1,2 @@
+# gitkills
+git for clone
